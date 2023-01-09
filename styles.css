@@ -94,7 +94,7 @@ body {
 
 .hovered::after {
   position: absolute;
-  content: "Переместить карточку";
+  content: "move card";
   width: 100%;
   padding: 1rem 0 0.5rem 0;
   font-size: 0.7rem;
